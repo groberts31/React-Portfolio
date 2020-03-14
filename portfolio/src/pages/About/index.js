@@ -27,7 +27,7 @@ function About() {
               <Container>
                 <div className="image">
                   <img
-                    src="assets/images/image2.jpeg"
+                    src="../../../images/image2.jpeg"
                     className="img-fluid"
                     height="auto"
                     alt="Greg"
