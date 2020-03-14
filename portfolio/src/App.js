@@ -6,6 +6,8 @@ import About from "./pages/About";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 import Wrapper from "./components/Wrapper";
+import Links from "./components/Links";
+
 
 function App() {
   return (
@@ -13,6 +15,7 @@ function App() {
       <div>
         <Navbar />
         <Wrapper>
+        <Links />
           <Route exact path="/" component={About} />
           <Route exact path="/contact" component={Contact} />
           <Route exact path="/portfolio" component={Portfolio} />
