@@ -6,3 +6,11 @@
     font-size: 20px;
     font-weight: bold;
 }
+
+input {
+    width: 50%;
+}
+
+textarea {
+    width: 75%;
+}
