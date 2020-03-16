@@ -1,15 +1,16 @@
 import React from "react";
 import Container from "../../components/Container";
 import Row from "../../components/Row";
+import "./style.css";
 
 function PortInfo(props) {
   return (
     <Container>
       <Row>
-        <div className="col-sm-6">
+        <div className="col-sm-6 projImg">
           <img alt={props.name} src={props.image} />
         </div>
-        <div className="col--sm-6">
+        <div className="col-sm-6 projData">
           <div className="content">
             <h3>{props.projectName}</h3>
             <br />

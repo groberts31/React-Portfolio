@@ -9,15 +9,14 @@ import Wrapper from "./components/Wrapper";
 import Links from "./components/Links";
 import Name from "./components/Name";
 
-
 function App() {
   return (
     <Router>
       <div>
-      <Name />
+        <Name />
         <Navbar />
         <Wrapper>
-        <Links />
+          <Links />
           <Route exact path="/" component={About} />
           <Route exact path="/contact" component={Contact} />
           <Route exact path="/portfolio" component={Portfolio} />
