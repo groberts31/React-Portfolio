@@ -8,6 +8,7 @@ import Footer from "./components/Footer";
 import Wrapper from "./components/Wrapper";
 import Links from "./components/Links";
 import Name from "./components/Name";
+import "./index.css";
 
 function App() {
   return (
