@@ -6,7 +6,6 @@ import About from "./pages/About";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 import Wrapper from "./components/Wrapper";
-import Links from "./components/Links";
 import Name from "./components/Name";
 import "./index.css";
 
@@ -18,8 +17,8 @@ function App() {
         <Navbar />
         <div class="clearfix"></div>
         <Wrapper>
-          <Links />
           <Route exact path="/" component={About} />
+          <Route exact path="/about" component={About} />
           <Route exact path="/contact" component={Contact} />
           <Route exact path="/portfolio" component={Portfolio} />
         </Wrapper>
