@@ -1,7 +1,7 @@
 import React from "react";
 import "./style.css";
 
-function Portfolio(props) {
+function Portfolio() {
     return (
         <div className="jumbotron">
             <h1>Portfolio Page</h1>

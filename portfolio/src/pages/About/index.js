@@ -8,7 +8,6 @@ import Name from "../../components/Name";
 function About() {
   return (
     <div id="entireArea">
-    <Name />
       <div className="clearfix"></div>
 
       <div className="jumbotron jumbotron-fluid" id="jumboBack">

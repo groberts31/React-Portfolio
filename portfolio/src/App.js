@@ -7,12 +7,14 @@ import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 import Wrapper from "./components/Wrapper";
 import Links from "./components/Links";
+import Name from "./components/Name";
 
 
 function App() {
   return (
     <Router>
       <div>
+      <Name />
         <Navbar />
         <Wrapper>
         <Links />
