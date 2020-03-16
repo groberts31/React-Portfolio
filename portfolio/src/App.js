@@ -16,6 +16,7 @@ function App() {
       <div>
         <Name />
         <Navbar />
+        <div class="clearfix"></div>
         <Wrapper>
           <Links />
           <Route exact path="/" component={About} />

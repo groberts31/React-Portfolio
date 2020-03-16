@@ -5,6 +5,8 @@ import "./style.css";
 // Depending on the current path, this component sets the "active" class on the appropriate navigation link item
 function Navbar() {
   return (
+    <span className="navigation">
+
     <nav className="navbar navbar-expand-lg navbar-light bg-light">
       <div>
         <ul className="navbar-nav">
@@ -39,6 +41,7 @@ function Navbar() {
         </ul>
       </div>
     </nav>
+    </span>
   );
 }
 
