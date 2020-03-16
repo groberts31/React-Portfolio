@@ -1,3 +1,10 @@
 #entireArea {
     border: solid black;
 }
+
+.aboutMe {
+    float: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 50px;
+}

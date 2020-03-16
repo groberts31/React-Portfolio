@@ -3,17 +3,15 @@ import "./style.css";
 import Container from "../../components/Container";
 import Row from "../../components/Row";
 import Col from "../../components/Col";
+import Links from "../../components/Links";
 
 function About() {
   return (
-    <div id="entireArea">
-      <div className="clearfix"></div>
-
-      <div className="jumbotron jumbotron-fluid" id="jumboBack">
-        <div className="jumbotron" id="jumboInfo">
+    <div className="jumbotron" id="entireArea">
           <span className="aboutMe">
             <p>About Me</p>
           </span>
+          <Links />
           <div className="clearfix"></div>
           <div className="linebreak">
             <hr size="1" color="grey"></hr>
@@ -65,8 +63,6 @@ function About() {
               </Container>
             </Col>
           </Row>
-        </div>
-      </div>
     </div>
   );
 }
