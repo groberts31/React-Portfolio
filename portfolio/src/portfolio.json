@@ -1,0 +1,35 @@
+[
+    {
+      "id": 1,
+      "image": "",
+      "name": "QuickLyrics",
+      "projectName": "QuickLyrics Project",
+      "webpage": "https://drsiles92.github.io/MusicApp/",
+      "githubRepo": "https://github.com/DRsiles92/MusicApp"
+    },
+    {
+      "id": 2,
+      "image": "",
+      "name": "My Weather Page",
+      "projectName": "Weather Page App",
+      "webpage": "https://groberts31.github.io/Weather_Search/",
+      "githubRepo": "https://github.com/groberts31/Weather_Search.git"
+    },
+    {
+      "id": 3,
+      "image": "",
+      "name": "Work Day Scheduler",
+      "projectName": "Day Planner App",
+      "webpage": "https://groberts31.github.io/dayplannerhw/",
+      "githubRepo": "https://github.com/groberts31/dayplannerhw.git"
+    },
+    {
+        "id": 4,
+        "image": "",
+        "name": "Giftify",
+        "projectName": "Giftify Project",
+        "webpage": "https://giftify-project2.herokuapp.com/",
+        "githubRepo": "https://github.com/cmarshman/project2.git"
+      }  
+  ]
+  

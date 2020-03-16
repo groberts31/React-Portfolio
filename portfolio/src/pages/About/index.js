@@ -3,7 +3,6 @@ import "./style.css";
 import Container from "../../components/Container";
 import Row from "../../components/Row";
 import Col from "../../components/Col";
-import Name from "../../components/Name";
 
 function About() {
   return (
