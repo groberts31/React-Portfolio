@@ -3,14 +3,12 @@ import "./style.css";
 import Container from "../../components/Container";
 import Row from "../../components/Row";
 import Col from "../../components/Col";
+import Name from "../../components/Name";
 
 function About() {
   return (
     <div id="entireArea">
-      <span className="name">
-        <h1>Gregory O. Roberts</h1>
-      </span>
-
+    <Name />
       <div className="clearfix"></div>
 
       <div className="jumbotron jumbotron-fluid" id="jumboBack">

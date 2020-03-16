@@ -1,12 +1,26 @@
 import React from "react";
 import "./style.css";
+import Container from "../../components/Container";
+import Row from "../../components/Row";
+import Col from "../../components/Col";
+import Name from "../../components/Name";
+import Navbar from "../../components/Navbar";
+import Form from "../../components/Form";
 
-function Contact(props) {
-    return (
-        <div className="jumbotron">
-            <h1>Contact Page</h1>
-        </div>
-    );
+
+function Contact() {
+  return (
+    <div className="entireArea">
+    <Name />
+    <div className="jumbotron">
+    <Container>
+        <Row>
+        <Form />
+        </Row>
+    </Container>
+    </div>
+    </div>
+  );
 }
 
 export default Contact;
