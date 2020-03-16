@@ -6,6 +6,7 @@ import "./style.css";
 function PortInfo(props) {
   return (
     <Container>
+    <div className="fullArea">
       <Row>
         <div className="col-sm-6 projImg">
           <img alt={props.name} src={props.image} />
@@ -21,6 +22,7 @@ function PortInfo(props) {
           </div>
         </div>
       </Row>
+    </div>
     </Container>
   );
 }

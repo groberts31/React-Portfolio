@@ -1,7 +1,7 @@
 [
     {
       "id": 1,
-      "image": "",
+      "image": "../public/images/quicklyrics.png",
       "name": "QuickLyrics",
       "projectName": "QuickLyrics Project",
       "webpage": "https://drsiles92.github.io/MusicApp/",
@@ -9,7 +9,7 @@
     },
     {
       "id": 2,
-      "image": "",
+      "image": "../public/images/weathersearch.png",
       "name": "My Weather Page",
       "projectName": "Weather Page App",
       "webpage": "https://groberts31.github.io/Weather_Search/",
@@ -17,7 +17,7 @@
     },
     {
       "id": 3,
-      "image": "",
+      "image": ".",
       "name": "Work Day Scheduler",
       "projectName": "Day Planner App",
       "webpage": "https://groberts31.github.io/dayplannerhw/",

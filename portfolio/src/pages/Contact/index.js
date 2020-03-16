@@ -6,7 +6,7 @@ import Links from "../../components/Links";
 function Contact() {
   return (
     <div className="jumbotron">
-      <span className="aboutMe">
+      <span className="contactMe">
         <p>Contact Me</p>
       </span>
       <Links />

@@ -12,10 +12,10 @@ import "./index.css";
 function App() {
   return (
     <Router>
-      <div>
+      <div className="allPages">
         <Name />
         <Navbar />
-        <div class="clearfix"></div>
+        <div className="clearfix"></div>
         <Wrapper>
           <Route exact path="/" component={About} />
           <Route exact path="/about" component={About} />
