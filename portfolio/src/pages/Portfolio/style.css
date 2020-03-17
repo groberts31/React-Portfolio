@@ -4,3 +4,8 @@
     font-size: 50px;
     float: left;
 }
+
+.background {
+    background-image: url(../../images/vintage-wallpaper.png);
+    padding: 2%;
+}
