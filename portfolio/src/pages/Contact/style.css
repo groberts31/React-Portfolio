@@ -9,3 +9,8 @@
     border: solid black;
     background-image: "../../../public/images/backgroundimg.png";
 }
+
+.background {
+    background-image: url(../../images/vintage-wallpaper.png);
+    padding: 2%;
+}
