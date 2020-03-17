@@ -1,7 +1,7 @@
 [
     {
       "id": 1,
-      "image": "../public/images/quicklyrics.png",
+      "image": "./public/images/dayplanner.png",
       "name": "QuickLyrics",
       "projectName": "QuickLyrics Project",
       "webpage": "https://drsiles92.github.io/MusicApp/",

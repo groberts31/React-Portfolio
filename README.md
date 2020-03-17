@@ -11,7 +11,7 @@ Updated Portfolio with actual info about me and styled better...
 
 <p>You will also find a link to a pdf version of my Resume with icons below of GitHub and LinkedIn which will take you to my profile page for either.</p>
 
-![Screenshot](assets/images/port1.png)
+![Screenshot](./portfolio/public/images/dayplanner.png)
 
 <p>If you navigate to the Portfolio page you will find a list of projects I am quite proud of constructing and contributing to.</p>
 
