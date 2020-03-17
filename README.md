@@ -30,4 +30,3 @@ Updated Portfolio with actual info about me and styled better...
 <p>Currently I am working on being able to provide an updated copy of my Resume on a separate page via the Navbar link in the upper right corner.</p>
 
 ![Screenshot](./portfolio/public/images/resume.png)
-
