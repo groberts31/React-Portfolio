@@ -7,6 +7,7 @@ import Links from "../../components/Links";
 
 function About() {
   return (
+    <div className="background">
     <div className="jumbotron" id="entireArea">
       <span className="aboutMe">
         <p>About Me</p>
@@ -31,6 +32,7 @@ function About() {
         </Col>
         <Col size="sm-9">
           <Container>
+          <div className="myInfo">
             <p>
               Hello, My name is Gregory Roberts. Born in Barstow, CA and raised
               in Charlotte, NC since the age of 3. I am a graduate of North
@@ -58,9 +60,11 @@ function About() {
               the best of the opportunity. Thanks for visiting my page. Feel
               free to take a look around.
             </p>
+          </div>
           </Container>
         </Col>
       </Row>
+    </div>
     </div>
   );
 }

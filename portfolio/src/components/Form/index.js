@@ -24,7 +24,7 @@ function Form() {
                 <textarea id="message" placeholder="Message......."></textarea>
                 <br />
                 <p>* = Required Fields</p>
-                <button id="submit">Send Message</button>
+                <button className="btn btn-primary" id="submit">Send Message</button>
                 </div>
             </form>
         </div>

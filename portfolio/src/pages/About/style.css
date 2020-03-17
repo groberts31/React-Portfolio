@@ -13,3 +13,16 @@
 .jumbotron {
     background-color: white;
 }
+
+img {
+    width: 100%;
+}
+
+.myInfo {
+    font-size: 25px;
+}
+
+.background {
+    background-image: url(../../images/vintage-wallpaper.png);
+    padding: 2%;
+}

@@ -1,7 +1,6 @@
 import React from "react";
 import "./style.css";
 import Links from "../../components/Links";
-import pdfDoc from "react-pdf";
 
 function Resume() {
   return (
@@ -15,7 +14,6 @@ function Resume() {
         <hr size="1" color="grey"></hr>
       </div>
       <div className="Container">
-        <pdfDoc file="./GregoryRobertsResume.pdf" />
       </div>
     </div>
   );

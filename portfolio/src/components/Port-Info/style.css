@@ -1,13 +1,19 @@
 .content {
     text-align: center;
 }
-.projImg {
+.picCol {
     border: solid black;
+    width: 50%;
 }
 .projData {
     border: solid black;
+    width: 50%;
 }
 
 .fullArea {
     background-color: white;
+}
+
+img {
+    width: 100%;
 }
