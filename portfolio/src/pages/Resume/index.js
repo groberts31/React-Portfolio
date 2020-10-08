@@ -15,7 +15,7 @@ function Resume() {
           <hr size="1" color="grey"></hr>
         </div>
         <div className="Container">
-          <h1>Hi there!!!</h1>
+          <h1>Hi there!!! Im Greg...</h1>
         </div>
       </div>
     </div>
