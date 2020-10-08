@@ -14,7 +14,9 @@ function Resume() {
         <div className="linebreak">
           <hr size="1" color="grey"></hr>
         </div>
-        <div className="Container"></div>
+        <div className="Container">
+          <h1>Hi there!!!</h1>
+        </div>
       </div>
     </div>
   );
