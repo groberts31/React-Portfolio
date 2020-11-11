@@ -30,6 +30,14 @@
         "projectName": "Giftify Project",
         "webpage": "https://giftify-project2.herokuapp.com/",
         "githubRepo": "https://github.com/cmarshman/project2.git"
-      }  
+      },
+      {
+        "id": 5,
+        "image": "./images/project2.gif",
+        "name": "Resume",
+        "projectName": "Resume",
+        "webpage": "https://giftify-project2.herokuapp.com/",
+        "githubRepo": "https://github.com/cmarshman/project2.git"
+      }    
   ]
   
