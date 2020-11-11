@@ -10,7 +10,7 @@ function Resume() {
     <div className="background">
       <div className="jumbotron">
         <div className="portInfo">
-          <p>My Resume</p>
+          <p>My Resume Test</p>
         </div>
         <Links />
         <div className="clearfix"></div>
